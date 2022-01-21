@@ -2,7 +2,7 @@
 
 use Dompdf\Dompdf;
 
-require __DIR__.'/vendor/autoload.php';
+require __DIR__.'/dompdf/vendor/autoload.php';
 
      $dpdf = new Dompdf();
 
